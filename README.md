@@ -1,4 +1,4 @@
-วิธีเพิ่มสี
+<!-- วิธีเพิ่มสี
 1. add ค่า columnSetting : {fille am5.color(ค่าสี)} ลงใน data json
 Ex.
 
@@ -36,3 +36,4 @@ series.slices.template.setAll({
 
 3.
 series.data.setAll(data);
+ -->
